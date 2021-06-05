@@ -66,6 +66,19 @@ body {
 
 }
 
+.image-frame{
+  border-color:#4aaaa5;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.image-centered{
+  padding:20px;
+  float: center;
+  max-width:100%;
+
+}
+
 p{
   padding:20px;
 }
